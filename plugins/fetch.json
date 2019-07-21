@@ -1,0 +1,34 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-rabbitmq": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/xiaoji-duan/cordova-plugin-rabbitmq.git"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-jcore": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-jcore"
+    },
+    "is_top_level": false,
+    "variables": {}
+  }
+}
